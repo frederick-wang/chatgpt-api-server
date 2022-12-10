@@ -1,5 +1,7 @@
 # chatgpt-api-server
 
+![](https://img.shields.io/github/license/frederick-wang/chatgpt-api-server)
+
 ## 简介
 
 这是一个兴趣使然的项目，今天为了给我的 QQ 群机器人调用 `ChatGPT` 服务写的，所以只能满足最基本的需求，一问一答。
