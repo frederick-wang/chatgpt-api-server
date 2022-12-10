@@ -1,0 +1,9 @@
+server:
+  host: 0.0.0.0
+  port: 23946
+chat:
+  timeout: 90
+context:
+  user_agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+cookie:
+  __Secure-next-auth.session-token: Input your cookie "__Secure-next-auth.session-token" here
